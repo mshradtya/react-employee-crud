@@ -32,7 +32,7 @@ function Dashboard() {
         </>
       )}
       {/* Add */}
-      {!isAdding && (
+      {isAdding && (
         <Add
           employees={employees}
           setEmployees={setEmployees}
@@ -40,7 +40,7 @@ function Dashboard() {
         />
       )}
       {/* Edit */}
-      {!isEditing && (
+      {isEditing && (
         <Edit
           employees={employees}
           selectedEmployee={selectedEmployee}
