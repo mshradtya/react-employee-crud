@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mshradtya/react-employee-crud/static/css/main.b10ce008.css",
-    "main.js": "/mshradtya/react-employee-crud/static/js/main.73299924.js",
-    "static/js/787.6555c8b4.chunk.js": "/mshradtya/react-employee-crud/static/js/787.6555c8b4.chunk.js",
-    "index.html": "/mshradtya/react-employee-crud/index.html",
-    "main.b10ce008.css.map": "/mshradtya/react-employee-crud/static/css/main.b10ce008.css.map",
-    "main.73299924.js.map": "/mshradtya/react-employee-crud/static/js/main.73299924.js.map",
-    "787.6555c8b4.chunk.js.map": "/mshradtya/react-employee-crud/static/js/787.6555c8b4.chunk.js.map"
+    "main.css": "/react-employee-crud/static/css/main.b10ce008.css",
+    "main.js": "/react-employee-crud/static/js/main.bf24c0c1.js",
+    "static/js/787.6555c8b4.chunk.js": "/react-employee-crud/static/js/787.6555c8b4.chunk.js",
+    "index.html": "/react-employee-crud/index.html",
+    "main.b10ce008.css.map": "/react-employee-crud/static/css/main.b10ce008.css.map",
+    "main.bf24c0c1.js.map": "/react-employee-crud/static/js/main.bf24c0c1.js.map",
+    "787.6555c8b4.chunk.js.map": "/react-employee-crud/static/js/787.6555c8b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b10ce008.css",
-    "static/js/main.73299924.js"
+    "static/js/main.bf24c0c1.js"
   ]
 }
