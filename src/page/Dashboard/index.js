@@ -15,8 +15,12 @@ function Dashboard() {
   const [isAdding, setIsAdding] = useState(false);
   const [isEditing, setIsEditing] = useState(false);
 
-  const handleEdit = () => {};
-  const handleDelete = () => {};
+  const handleEdit = (id) => {
+    console.log("edit it", id);
+  };
+  const handleDelete = (id) => {
+    console.log("delete it", id);
+  };
 
   return (
     <div className="container">
