@@ -3,10 +3,10 @@ import React from "react";
 function Header({ setIsAdding }) {
   return (
     <header>
-      <h1>Employee Management ReactJS</h1>
-      <div style={{ marginTop: "50px", marginBottom: "15px" }}>
+      <h1 className="vertical-center">Employee Management ReactJS</h1>
+      <div className="vertical-center margin-bottom">
         <button onClick={() => setIsAdding(true)} className="round-button">
-          Add Button
+          Add Employee
         </button>
       </div>
     </header>
